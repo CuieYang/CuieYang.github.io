@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I am currently a Professor at the State Key Laboratory of Synthetical Automation for Process Industry, 
+Northeastern University
+Shenyang, Liaoning, China"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
