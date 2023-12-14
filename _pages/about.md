@@ -8,20 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-State Key Laboratory of Synthetical Automation for Process Industry, 
-
-Northeastern University, Shenyang, Liaoning, China. 
-
-Email: cuieyang@outlook.com
++ State Key Laboratory of Synthetical Automation for Process Industry, 
++ Northeastern University, Shenyang, Liaoning, China. 
++ Email: cuieyang@outlook.com
 
 Research Interests
 ---
-My research interests include transfer learning, domain adaptation, transfer evolutionary optimization, data-driven evolutionary optimization...
+## Transferable Computational Intelligence 
++ Transfer learning
++ Domain adaptation
++ Transfer evolutionary optimization
++ Data-driven evolutionary optimization
++ Dynamic evolutionary optimization
++ Transferable Computational Intelligence applications
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Education
+---
++ Ph.D. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Oct. 2019 (Supervisor: [Prof. Jinliang Ding](https://yn-sun.github.io/), Co-supervised by [Prof. Yaochu Jin(https://mp.weixin.qq.com/s/87wgZ8QLnFwCmGscaPVZ2g)])
++ Geroge Mason University, Virginia, Dec. 2018 - Sep. 2019
++ National University of Singapore, Singapore, Dec. 2016 - Jun. 2017
++ M.Sc. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Jun. 2016 (Supervisor: [Prof. Jinliang Ding](https://yn-sun.github.io/)
++ B.Sc. Degree: School of Electrical Engineering and Automation, Henan Polytechnic University, Jiaozuo, China. Jun. 2014
 
+Work Experience
+---
++ Professor, State Key Laboratory of Synthetical Automation for Process Industry, Northeastern University, Shenyang, China,  Oct. 2023 - Present
++ Postdoctoral Research Fellow, Hong Kong Baptist University, Hong Kong, China, Oct. 2022 -  Oct. 2023
++ Postdoctoral Research Fellow, Victoria University of Wellington, Wellington, New Zealand, Jul. 2021 - Oct. 2022
++ Postdoctoral Research Fellow, Hong Kong Baptist University, Hong Kong, China, Feb. 2020 -  Jun. 2021
 
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
