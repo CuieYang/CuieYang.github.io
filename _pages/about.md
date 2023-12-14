@@ -24,10 +24,10 @@ Research Interests
 
 Education
 ---
-+ Ph.D. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Oct. 2019 (Supervisor: [Prof. Jinliang Ding](https://yn-sun.github.io/), Co-supervised by [Prof. Yaochu Jin](https://mp.weixin.qq.com/s/87wgZ8QLnFwCmGscaPVZ2g))
++ Ph.D. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Oct. 2019 (Supervisor: [Prof. Jinliang Ding](https://jlding-neu.github.io/), Co-supervised by [Prof. Yaochu Jin](https://mp.weixin.qq.com/s/87wgZ8QLnFwCmGscaPVZ2g))
 + Geroge Mason University, Virginia, Dec. 2018 - Sep. 2019
 + National University of Singapore, Singapore, Dec. 2016 - Jun. 2017
-+ M.Sc. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Jun. 2016 (Supervisor: [Prof. Jinliang Ding](https://yn-sun.github.io/)
++ M.Sc. Degree: School of Information Science and Engineering, Northeastern University, Shenyang, China. Jun. 2016 (Supervisor: [Prof. Jinliang Ding](https://jlding-neu.github.io/))
 + B.Sc. Degree: School of Electrical Engineering and Automation, Henan Polytechnic University, Jiaozuo, China. Jun. 2014
 
 Work Experience
